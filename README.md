@@ -21,7 +21,7 @@ During my Detection and Response lab, I gained hands-on training experience in i
 - Log Forwarder - Used to forward logs from endpoints to analysis tools like Splunk and Chronicle.
 - Wireshark - Apllied for analyzing packet captures and examing network traffic during simulated attacks.
 - Google Chronicle - Utilized scalable security analytics and threat detection
-- 
+  
 
 
 
