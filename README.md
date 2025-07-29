@@ -22,9 +22,6 @@ During my Detection and Response lab, I gained hands-on training experience in i
 - Wireshark - Apllied for analyzing packet captures and examing network traffic during simulated attacks.
 - Google Chronicle - Utilized scalable security analytics and threat detection
 - 
-### Steps
-Detection and Response Diagram
-Ref 1:
 
 
 
