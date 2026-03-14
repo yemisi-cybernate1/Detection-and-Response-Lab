@@ -1,10 +1,10 @@
 # Detection and Response Lab
-
 ## Objective
-Completed a hands-on Detection and Response lab focused on identifying, analyzing, and responding to cybersecurity threats in a simulated enterprise environment. The lab involved monitoring logs, investigating alerts, and performing threat hunting activities using industry-standard security tools.
-
-I practiced detecting suspicious behavior across endpoints and networks, analyzing security events, and applying incident response procedures including containment, eradication, and recovery.
 ---
+Completed a hands-on Detection and Response lab focused on identifying, analyzing, and responding to cybersecurity threats in a simulated enterprise environment. The lab involved monitoring logs, investigating alerts, and performing threat hunting activities using industry-standard security tools.I practiced detecting suspicious behavior across endpoints and networks, analyzing security events, and applying incident response procedures including containment, eradication, and recovery.
+
+---
+
 ## Key Skills
 - Security log analysis and threat detection  
 - Threat hunting using SIEM and log data  
