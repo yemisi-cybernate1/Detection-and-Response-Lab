@@ -11,7 +11,7 @@ This experience strengthened my confidence in threat detection, incident respons
 ### Skills Learned
 
 - Detected suspicious activities by analyzing security logs from endpoints and network devices.  
-- Used tools like **Splunk**, **Suricata**, **Google Chronicle**, and log forwarders to monitor and investigate threats.  
+- Used tools like **Splunk**, **Suricata**, and log forwarders to monitor and investigate threats.  
 - Simulated attacks such as phishing, brute-force, and privilege escalation to understand attacker behavior.  
 - Conducted proactive threat hunting using log data to identify potential risks.  
 - Applied key incident response strategies: containment, eradication, and recovery.  
@@ -25,4 +25,4 @@ This experience strengthened my confidence in threat detection, incident respons
 - **Suricata** – IDS/IPS deployed to monitor network traffic.  
 - **Log Forwarder** – Forwarded logs from endpoints to analysis tools like Splunk and Chronicle.  
 - **Wireshark** – Analyzed packet captures and network traffic during simulated attacks.  
-- **Google Chronicle** – Scalable security analytics and threat detection platform.
+
